@@ -1,0 +1,3 @@
+﻿  glfw_programowanie_gier_komputerowych.cpp
+glfw_programowanie_gier_komputerowych.obj : error LNK2001: nierozpoznany symbol zewnętrzny glad_glClear
+c:\users\kacpe\source\repos\glfw_programowanie_gier_komputerowych\x64\Release\glfw_programowanie_gier_komputerowych.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1
